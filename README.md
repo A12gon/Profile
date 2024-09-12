@@ -20,11 +20,6 @@ I am currently pursuing my **Diploma in Electrical Engineering** at **Gadjah Mad
 
 ---
 
-### 🚀 **Projects & Contributions**
-- ⚙️ **[Project Name](https://github.com/your-repo-link)** — Brief description of your project related to electronics or microcontroller systems.
-- 🔧 **[Another Project](https://github.com/your-repo-link)** — Another key project or contribution related to your electrical engineering expertise.
-
----
 
 ### 💡 **Fun Facts**
 - 🔋 Passionate about exploring innovations in **power systems** and **renewable energy**.
