@@ -2,11 +2,11 @@
 ![Lalu Kevin Alejandro Mandrayudha](https://your-banner-link.com) <!-- Customize this banner for a sleek look -->
 
 # 👋 Hi, I'm **Lalu Kevin Alejandro Mandrayudha**
-#### 🛠️ **Electrical Engineering Student | High-Current Systems Enthusiast | Microcontroller Magician**
+#### 🛠️ **Electrical Engineering Student | High-Current Systems Enthusiast | Microcontroller Enthusiast**
 
 ---
 
-### 🚀 **Welcome to My World of Innovation!**
+### 🚀 **Welcome to My Profile!**
 
 I’m a passionate **Electrical Engineering student** from **Gadjah Mada University**, where I’m constantly building, creating, and refining systems in the exciting field of **electronics**. With a strong focus on **high-current systems** and a talent for programming **microcontrollers** and **PLCs**, I bring precision, creativity, and a thirst for learning to every project I tackle.
 
@@ -14,7 +14,7 @@ I’m a passionate **Electrical Engineering student** from **Gadjah Mada Univers
 
 ---
 
-### ⚡ **Skills & Superpowers**
+### ⚡ **Skills & Abilities**
 
 💻 **Electronics Mastery**  
 I breathe circuits and live in the world of wires. Skilled in designing and troubleshooting electronics systems, especially **high-current applications**.
@@ -33,8 +33,8 @@ Engineering is more than just tools—it's about **innovation**. I'm always look
 ### ⚙️ **What I'm Working On**
 I’m all about **real-world impact**. Here are some of the projects where I get to apply my skills and make a difference:
 
-- **[Smart Power Grid Simulator](https://github.com/your-repo-link)**: Designed a grid simulation system using **PLC programming** to efficiently distribute energy across multiple sources.
-- **[Automated Hydroponic System](https://github.com/your-repo-link)**: Created an IoT-based solution using **ESP32** to monitor and automate hydroponic farms with **precision controls** for water and nutrients.
+- **[Smart Power Grid Simulator]**: Designed a grid simulation system using **PLC programming** to efficiently distribute energy across multiple sources.
+- **[Kicker Robot System]**: Created an electronic system for robot soccer that allows it to perform a repetitive kick motion.
 
 ---
 
@@ -87,6 +87,4 @@ Looking to **team up** on exciting projects, exchange **ideas**, or simply have 
 
 ---
 
-_"Electrical engineering isn't just my field—it's my playground!"_  
-– **Lalu Kevin Alejandro Mandrayudha**
 
