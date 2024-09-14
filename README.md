@@ -1,6 +1,3 @@
-<!-- Add a dynamic banner with your name and tagline -->
-![Lalu Kevin Alejandro Mandrayudha](https://your-banner-link.com) <!-- Customize this banner for a sleek look -->
-
 # 👋 Hi, I'm **Lalu Kevin Alejandro Mandrayudha**
 #### 🛠️ **Electrical Engineering Student | High-Current Systems Enthusiast | Microcontroller Enthusiast**
 
